@@ -1,3 +1,45 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "tdm1094.github.io/blog-personal-publico"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+languageCode = "en-us"
+theme = "hugo-classic"
+title = "Cuadernos"
+disqusShortname = 'disqus_13Nd0ldQT8' 
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[permalinks]
+post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+name = "Categorías"
+url = "/categories/"
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+[[menu.feed]]
+name = "RSS"
+url = "/index.xml"
+
+[params]
+custom_css = ["css/theme-override.css"]
+description = "A simple, minimal blog for those who love text."
+footer = "Hecho con software libre | [Tema](https://github.com/goodroot/hugo-classic)"

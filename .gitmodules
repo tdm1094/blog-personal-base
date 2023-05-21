@@ -1,0 +1,3 @@
+[submodule "themes/hugo-classic"]
+	path = themes/hugo-classic
+	url = https://github.com/tdm1094/blog-personal-tema-hugo-classic.git
