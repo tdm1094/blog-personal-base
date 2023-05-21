@@ -1,6 +1,6 @@
 ---
 title: Cuadernos de Medianoche
-description: "Mensajes arrojados al oceáno de la internet"
+description: "Mensajes arrojados al océano de la internet"
 ---
 # Cuadernos de medianoche
 ## Mensajes arrojados al océano de la internet
@@ -12,7 +12,7 @@ Las páginas eran pequeños rincones personales, experimentos estéticos fallido
 
 Sí, ya fue... esa parece una buena razón. He aquí entonces un pequeño homenaje a esos internautas olvidados.
 
-<img src="/images/dancing-baby.gif">
+<img src="blog-personal-publico/images/dancing-baby.gif">
 
 ---
 ### Escritos, reflexiones y demases:

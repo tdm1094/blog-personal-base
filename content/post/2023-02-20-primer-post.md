@@ -19,8 +19,8 @@ La banda era [Interpol](https://es.wikipedia.org/wiki/Interpol_(banda)) y aunque
 Lo que comenzó como un accidente se tornó en un fanatismo insaciable. Pasaron algunos meses. Me empecé a vestir de negro y a intentar prestar atención en las clases de inglés para entender qué decían las palabras que acompañaban la música. No entendía un carajo y los traductores de esa época eran tan literales en sus traducciones que sólo te daban un vómito de oraciones sin sentido. Pero aún así, sin comprender más que algunos fragmentos, estos temas me hablaban de una forma distinta a todo lo que había escuchado antes.  
 Cuando mi viejo fue al Parque Rivadavia a comprar compilados truchos de bandas, le dije que buscara alguno de Interpol. Volvió con un CD que sólo tenía 2 discos: **Turn On The Bright Lights** y **Antics**.
 
-  <img src="/images/2023-02-20/TOTBL.jpeg" alt="Portada del disco Turn On The Bright Lights" width="300" height="300" style="float: left;">
-  <img src="/images/2023-02-20/antics.webp" alt="Portada del disco Antics" width="300" height="300" style="float: right;">
+  <img src="/blog-personal-publico/images/2023-02-20/TOTBL.jpeg" alt="Portada del disco Turn On The Bright Lights" width="300" height="300" style="float: left;">
+  <img src="/blog-personal-publico/images/2023-02-20/antics.webp" alt="Portada del disco Antics" width="300" height="300" style="float: right;">
 
 <div style="clear: both"></div>
 
@@ -38,7 +38,7 @@ Los riffs de Interpol, aunque asociables a la simpleza de las bandas de post-pun
 
 Para situarnos en contexto, estamos hablando de una juventud yanqui que empujada por la falsa ilusión consumista de los 90s ahora observaban las Torres Gemelas caer ante las promesas de venganza de Bush. Los celulares sonaban cada vez con más frecuencia en una insoportable cacofonía monofónica y la vorágine frenética del capitalismo del nuevo milenio arrastraba toda una generación que debía formarse para afrontar y hacerse cargo de un mundo cada vez más interconectado pero incapaz de conciliar todas las fracturas que agrietaban esa falsa idea de opulencia y armonía global. 
 
-La movida de rock neyorquina tenía en ese entonces varias vertientes, pero la más novedosa [^2] estaba mucho más orientada hacia arreglos bailables y estridentes, voces chillonas y una excentricidad algo tímida que estaba harta de la angustia adolescente y buscaba escaparle en chupines de colores y flequillos planchados. La fina línea entre rock y pop se hacía cada vez más delgada y como un reflejo de esa homogenización global las fronteras entre las tribus urbanas se iban desdibujando. Los discursos culturales cedían ante el mandato capitalista de entregarse al placer y sin muchos cuestionamientos ser feliz. Sin embargo, en las guitarras de Paul Banks y Daniel Kessler se entreveía la incertidumbre, el romanticismo y lo indescifrable de una era colmada de maquillajes vencidos. 
+La movida de rock neoyorquina tenía en ese entonces varias vertientes, pero la más novedosa [^2] estaba mucho más orientada hacia arreglos bailables y estridentes, voces chillonas y una excentricidad algo tímida que estaba harta de la angustia adolescente y buscaba escaparle en chupines de colores y flequillos planchados. La fina línea entre rock y pop se hacía cada vez más delgada y como un reflejo de esa homogeneización global las fronteras entre las tribus urbanas se iban desdibujando. Los discursos culturales cedían ante el mandato capitalista de entregarse al placer y sin muchos cuestionamientos ser feliz. Sin embargo, en las guitarras de Paul Banks y Daniel Kessler se entreveía la incertidumbre, el romanticismo y lo indescifrable de una era colmada de maquillajes vencidos. 
 
 Las texturas sonoras que logra esta banda son como láminas traslúcidas que una vez apiladas componen un tinte de color único. Pero si uno las va atravesando una por una y descompone sus tintes individuales puede apreciar el carácter único de cada componente. Carácter que incluso aislado se sostiene, para luego permitir escuchar la obra completa con mayor aprecio.
 
@@ -52,7 +52,7 @@ Tomemos una canción como [Leif Erikson](https://www.youtube.com/watch?v=SRFa9N4
 
 >"Ella dice que ayuda hacerlo con las luces apagadas  
 >  
->Su brillo rabioso es como braile en la noche  
+>Su brillo rabioso es como braille en la noche  
 >  
 >Ella jura que soy un esclavo de los detalles  
 >  
@@ -64,7 +64,7 @@ El deseo de nuevos lugares, la imagen corroída de un amor agotado y la búsqued
 >
 >Así los dos pueden tomarse algo de tiempo y enseñarse a reciprocar"
 
-¿Qué tienen en común un vikingo navegando hacia lo desconocido, un neyorquino de 24 años que enfrenta otro amor fallido, un pibe de 12 que escucha por primera vez la música más oscura con la que se haya topado y el autor de este posteo? Me arriesgo a decir que mucho más de lo que parece.  
+¿Qué tienen en común un vikingo navegando hacia lo desconocido, un neoyorquino de 24 años que enfrenta otro amor fallido, un pibe de 12 que escucha por primera vez la música más oscura con la que se haya topado y el autor de este posteo? Me arriesgo a decir que mucho más de lo que parece.  
 
 >"Ella siente que mi lado sentimental debería sostenerse con guantes para niños
 >
@@ -74,7 +74,7 @@ El deseo de nuevos lugares, la imagen corroída de un amor agotado y la búsqued
 >
 >Bueno, entonces pescame y arrojame, porque me gusta ser enganchado"
 
-Un vikingo perdido en el océano, sin la certeza de llegar a tierra firme, cuestionando si su viaje tiene sentido o simplemente está siendo tragado por un lento suicidio. Un neyorquino que ya no encuentra nada en las palabras de su novia, que coge en la oscuridad intentando leer algo nuevo en ese cuerpo ya conocido y busca allí una salida a su propia frustración. Un niño que tiene que crecer hacia una vida que sólo ofrece incomprensión y que a través de canales digitales busca el camino hacia algo nuevo, algo alejado de una casa colmada por la soledad. Un chabón que en un desvelo de madrugada decide ponerse a escribir sobre ese disco que le voló la cabeza cuando era niño, 16 años atrás.
+Un vikingo perdido en el océano, sin la certeza de llegar a tierra firme, cuestionando si su viaje tiene sentido o simplemente está siendo tragado por un lento suicidio. Un neoyorquino que ya no encuentra nada en las palabras de su novia, que coge en la oscuridad intentando leer algo nuevo en ese cuerpo ya conocido y busca allí una salida a su propia frustración. Un niño que tiene que crecer hacia una vida que sólo ofrece incomprensión y que a través de canales digitales busca el camino hacia algo nuevo, algo alejado de una casa colmada por la soledad. Un chabón que en un desvelo de madrugada decide ponerse a escribir sobre ese disco que le voló la cabeza cuando era niño, 16 años atrás.
 
 >"El reloj está listo para las nueve pero sabés que lo harás a las ocho  
 >  
@@ -122,7 +122,7 @@ Si aún no lo hiciste, te recomiendo que le des una oportunidad a [Turn On The B
 
 Muchas gracias por leerme y hasta la próxima.
 
-<img src="/images/2023-02-20/interpol.gif" alt="Interpol tocando en vivo" width="400" height="400">
+<img src="/blog-personal-publico/images/2023-02-20/interpol.gif" alt="Interpol tocando en vivo" width="400" height="400">
 
 [^1]: Videos que después tenías que dejar cargando unos 10 minutos hasta que terminen de bufferear para poder verlos de corrido. Si uno lo piensa en retrospectiva, la lentitud de internet era una limitante que no invadía los ritmos de vida de aquel entonces. Lo inmediato no era la norma y mucho menos la omnipresencia del espacio digital (los teléfonos inteligentes eran todavía un sueño, aunque para nada lejano). Supongo que es relativo decir que eso era una virtud, pero que a veces se extraña, no hay duda...
 [^2]: También llamada "[post-punk revival](https://es.wikipedia.org/wiki/Post-punk_revival)". Pero dale, meter a Interpol en la misma caja que los Strokes o Franz Ferdinand, no tiene mucho sentido.
