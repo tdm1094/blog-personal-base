@@ -1,4 +1,4 @@
-baseurl = "tdm1094.github.io/blog-personal-publico"
+baseurl = "/blog-personal-publico"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 googleAnalytics = ""
